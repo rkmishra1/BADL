@@ -1,0 +1,4 @@
+"Method","Selected_Variables","BIC"
+"Lasso","Age, Height, Neck, Abdomen, Forearm, Wrist",712.057906662901
+"aLasso","Age, Weight, Height, Neck, Abdomen, Hip, Thigh, Ankle, Biceps, Forearm, Wrist",714.219315242938
+"BaLasso","Age, Weight, Neck, Abdomen, Thigh, Biceps, Forearm, Wrist",708.924099773747
